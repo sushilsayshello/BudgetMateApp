@@ -11,6 +11,17 @@
 		848E5CF72C8D18FC00770E1E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848E5CF62C8D18FC00770E1E /* ContentView.swift */; };
 		848E5CF92C8D18FF00770E1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 848E5CF82C8D18FF00770E1E /* Assets.xcassets */; };
 		848E5CFC2C8D18FF00770E1E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 848E5CFB2C8D18FF00770E1E /* Preview Assets.xcassets */; };
+		848E5D052C8D21F700770E1E /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848E5D042C8D21F700770E1E /* DashboardView.swift */; };
+		848E5D072C8D24BE00770E1E /* SpendingAnalyticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848E5D062C8D24BE00770E1E /* SpendingAnalyticsView.swift */; };
+		848E5D092C8D252400770E1E /* PieChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848E5D082C8D252400770E1E /* PieChartView.swift */; };
+		848E5D0B2C8D253F00770E1E /* LineChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848E5D0A2C8D253F00770E1E /* LineChartView.swift */; };
+		848E5D0D2C8D289F00770E1E /* SetSavingsGoalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848E5D0C2C8D289D00770E1E /* SetSavingsGoalView.swift */; };
+		848E5D0F2C8D2B6300770E1E /* FinancialQuestsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848E5D0E2C8D2B6300770E1E /* FinancialQuestsView.swift */; };
+		848E5D112C8D2BDE00770E1E /* AlertsAndNotificationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848E5D102C8D2BDE00770E1E /* AlertsAndNotificationsView.swift */; };
+		848E5D132C8D2D5B00770E1E /* AkahuAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848E5D122C8D2D5B00770E1E /* AkahuAPI.swift */; };
+		848E5D152C8D2D8D00770E1E /* BanksAndCardsIntegrationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848E5D142C8D2D8D00770E1E /* BanksAndCardsIntegrationView.swift */; };
+		848E5D172C8D2EBA00770E1E /* SmartFinancialAdvisorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848E5D162C8D2EBA00770E1E /* SmartFinancialAdvisorView.swift */; };
+		848E5D192C8D319D00770E1E /* CustomReportsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848E5D182C8D319C00770E1E /* CustomReportsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +30,17 @@
 		848E5CF62C8D18FC00770E1E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		848E5CF82C8D18FF00770E1E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		848E5CFB2C8D18FF00770E1E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		848E5D042C8D21F700770E1E /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
+		848E5D062C8D24BE00770E1E /* SpendingAnalyticsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpendingAnalyticsView.swift; sourceTree = "<group>"; };
+		848E5D082C8D252400770E1E /* PieChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PieChartView.swift; sourceTree = "<group>"; };
+		848E5D0A2C8D253F00770E1E /* LineChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineChartView.swift; sourceTree = "<group>"; };
+		848E5D0C2C8D289D00770E1E /* SetSavingsGoalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetSavingsGoalView.swift; sourceTree = "<group>"; };
+		848E5D0E2C8D2B6300770E1E /* FinancialQuestsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinancialQuestsView.swift; sourceTree = "<group>"; };
+		848E5D102C8D2BDE00770E1E /* AlertsAndNotificationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertsAndNotificationsView.swift; sourceTree = "<group>"; };
+		848E5D122C8D2D5B00770E1E /* AkahuAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AkahuAPI.swift; sourceTree = "<group>"; };
+		848E5D142C8D2D8D00770E1E /* BanksAndCardsIntegrationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BanksAndCardsIntegrationView.swift; sourceTree = "<group>"; };
+		848E5D162C8D2EBA00770E1E /* SmartFinancialAdvisorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmartFinancialAdvisorView.swift; sourceTree = "<group>"; };
+		848E5D182C8D319C00770E1E /* CustomReportsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomReportsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +75,17 @@
 			children = (
 				848E5CF42C8D18FC00770E1E /* BudgetMateApp.swift */,
 				848E5CF62C8D18FC00770E1E /* ContentView.swift */,
+				848E5D182C8D319C00770E1E /* CustomReportsView.swift */,
+				848E5D0E2C8D2B6300770E1E /* FinancialQuestsView.swift */,
+				848E5D0C2C8D289D00770E1E /* SetSavingsGoalView.swift */,
+				848E5D042C8D21F700770E1E /* DashboardView.swift */,
+				848E5D162C8D2EBA00770E1E /* SmartFinancialAdvisorView.swift */,
+				848E5D122C8D2D5B00770E1E /* AkahuAPI.swift */,
+				848E5D142C8D2D8D00770E1E /* BanksAndCardsIntegrationView.swift */,
+				848E5D102C8D2BDE00770E1E /* AlertsAndNotificationsView.swift */,
+				848E5D062C8D24BE00770E1E /* SpendingAnalyticsView.swift */,
+				848E5D082C8D252400770E1E /* PieChartView.swift */,
+				848E5D0A2C8D253F00770E1E /* LineChartView.swift */,
 				848E5CF82C8D18FF00770E1E /* Assets.xcassets */,
 				848E5CFA2C8D18FF00770E1E /* Preview Content */,
 			);
@@ -138,7 +171,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				848E5CF72C8D18FC00770E1E /* ContentView.swift in Sources */,
+				848E5D172C8D2EBA00770E1E /* SmartFinancialAdvisorView.swift in Sources */,
+				848E5D0F2C8D2B6300770E1E /* FinancialQuestsView.swift in Sources */,
+				848E5D092C8D252400770E1E /* PieChartView.swift in Sources */,
+				848E5D192C8D319D00770E1E /* CustomReportsView.swift in Sources */,
+				848E5D132C8D2D5B00770E1E /* AkahuAPI.swift in Sources */,
+				848E5D0D2C8D289F00770E1E /* SetSavingsGoalView.swift in Sources */,
+				848E5D072C8D24BE00770E1E /* SpendingAnalyticsView.swift in Sources */,
+				848E5D112C8D2BDE00770E1E /* AlertsAndNotificationsView.swift in Sources */,
+				848E5D152C8D2D8D00770E1E /* BanksAndCardsIntegrationView.swift in Sources */,
+				848E5D052C8D21F700770E1E /* DashboardView.swift in Sources */,
 				848E5CF52C8D18FC00770E1E /* BudgetMateApp.swift in Sources */,
+				848E5D0B2C8D253F00770E1E /* LineChartView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
