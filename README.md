@@ -1,8 +1,36 @@
-# BudgetMate
+# ![BudgetMate Logo](https://via.placeholder.com/150) BudgetMate
 
-Welcome to **BudgetMate**, your go-to personal finance companion app!
+## 📝 Overview
+**BudgetMate** is a personal finance management tool designed for New Zealanders, empowering them to take control of their financial future. By analyzing public datasets and utilizing AI, it provides users with insights that shift their financial behavior from reactive to proactive.
 
----
+## ❓ Problem Statement
+Many New Zealanders struggle with better financial management due to a lack of financial literacy and the non-availability of effective tools. The goal of BudgetMate is to create a user-friendly solution that helps individuals:
+- Analyze their spending and saving habits.
+- Receive personalized suggestions to improve financial habits.
+- Utilize public data for real-time financial insights.
+
+## 🔑 Key Features
+### 1. Personal Finance Personality Tool
+- **Financial Personality Analysis:** Understand your financial behavior based on your spending, saving, and investment patterns using public datasets combined with user-specific financial data.
+
+### 2. Custom Reports
+- **Detailed Insights:** Track your financial progress over time with custom reports, helping you make informed decisions.
+
+### 3. Smart Financial Advisor
+- **AI-Powered Advice:** Get real-time advice on budgeting, saving, and spending based on your financial personality and open data sources.
+
+### 4. Real-Time Financial Health Score
+- **Easy Overview:** Calculate your Financial Health Score, updated regularly based on spending habits, debt, and savings goals.
+
+### 5. Spend and Save Insights
+- **Track Trends:** Real-time insights allow you to monitor spending trends and savings goals, making budgeting simpler.
+
+### 6. Akahu Bank and Card Linking
+- **Automatic Imports:** Connect your bank accounts and cards through the Akahu API for automatic transaction imports and detailed financial analysis.
+
+## 🎯 Conclusion
+BudgetMate empowers New Zealanders by providing personalized financial advice and tools to help them make better financial decisions. Through the use of AI, real-time data, and insights, BudgetMate enables users to achieve financial security and long-term success.
+
 
 ## Watch the Project Video
 Click the image below to watch the project video:
