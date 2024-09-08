@@ -1,17 +1,7 @@
 # BudgetMate </Br>
 ![BudgetMate](https://github.com/user-attachments/assets/a7e43978-bb9d-4d80-8d41-652df41de1b8) </br>
+Click below image to watch video
 [![Watch the video](https://img.youtube.com/vi/0H3AMXJydvo/0.jpg)](https://www.youtube.com/watch?v=0H3AMXJydvo) </br> 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Your Project Title</title>
-</head>
-<body>
-    <h1>Welcome to My Project</h1>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/0H3AMXJydvo" frameborder="0" allowfullscreen></iframe>
-</body>
-</html>
-
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-09-08 at 11 43 01](https://github.com/user-attachments/assets/b2cd0f7a-6cd9-4414-b718-c0c9b6c19d03) </br>
 ![Simulator Screenshot - iPhone 15 Pro - 2024-09-08 at 11 45 05](https://github.com/user-attachments/assets/86d0aa35-6330-460f-b10f-0f3ddf1bad01)
