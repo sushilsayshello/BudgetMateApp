@@ -3,7 +3,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Your Project Title</title>
 </head>
 <body>
         <h1>Welcome to My Project</h1>
