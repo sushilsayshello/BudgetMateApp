@@ -1,4 +1,4 @@
-# ![BudgetMate Logo](https://via.placeholder.com/150) BudgetMate
+# BudgetMate
 
 ## 📝 Overview
 **BudgetMate** is a personal finance management tool designed for New Zealanders, empowering them to take control of their financial future. By analyzing public datasets and utilizing AI, it provides users with insights that shift their financial behavior from reactive to proactive.
